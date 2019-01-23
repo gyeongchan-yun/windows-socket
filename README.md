@@ -1,3 +1,3 @@
 Windows socket programming
 =====================
-½ÇÇà: MS Visual Studio 2017
+Run: MS Visual Studio 2017
